@@ -1,4 +1,5 @@
-# OpenGL Graphics ( Brick Breaker Game ) 
+# OpenGL Graphics ( Brick Breaker Game ) 7
+I developed a 2D Brick Breaker Game using C++ and OpenGL. The code includes collision detection algorithms and ball movement calculation.
 Sources can be found in -> Framework-EGC-homework/Source/Laboratoare/Tema1/
 
 # Screenshots
